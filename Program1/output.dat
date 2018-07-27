@@ -1,0 +1,54 @@
+Bubble Sort moves: 
+738006 for 1000 elements
+3102216 for 2000 elements
+6855855 for 3000 elements
+12314505 for 4000 elements
+19043574 for 5000 elements
+27290694 for 6000 elements
+36916545 for 7000 elements
+48302838 for 8000 elements
+61289766 for 9000 elements
+76226160 for 10000 elements
+Is arrayOne sorted? Yes!
+------------------------------------------
+
+Selection Sort moves: 
+2982 for 1000 elements
+5988 for 2000 elements
+8973 for 3000 elements
+11967 for 4000 elements
+14982 for 5000 elements
+17976 for 6000 elements
+20967 for 7000 elements
+23976 for 8000 elements
+26970 for 9000 elements
+29952 for 10000 elements
+Is arrayTwo sorted? Yes!
+------------------------------------------
+
+Insertion Sort moves: 
+248000 for 1000 elements
+1038063 for 2000 elements
+2291266 for 3000 elements
+4112810 for 4000 elements
+6357823 for 5000 elements
+9108851 for 6000 elements
+12319450 for 7000 elements
+16116862 for 8000 elements
+20447816 for 9000 elements
+25428589 for 10000 elements
+Is arrayThree sorted? Yes!
+------------------------------------------
+
+Quick Sort moves: 
+7212 for 1000 elements
+15813 for 2000 elements
+25176 for 3000 elements
+34437 for 4000 elements
+44343 for 5000 elements
+53964 for 6000 elements
+63990 for 7000 elements
+74508 for 8000 elements
+84390 for 9000 elements
+95325 for 10000 elements
+Is arrayFour sorted? Yes!
