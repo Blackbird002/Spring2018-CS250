@@ -1,0 +1,34 @@
+*****************************************************************
+----------------------Testing Program 2--------------------------
+*****************************************************************
+
+Printing the UNIVERSAL Set: 
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+
+Printing the VOWEL Set: 
+A _ _ _ E _ _ _ I _ _ _ _ _ O _ _ _ _ _ U _ _ _ _ _ 
+
+Printing the MYNAME Set: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Is VOWEL equal to VOWEL set? 
+Yes! 
+
+Is VOWEL equal to MYNAME set? 
+No! 
+
+A _ _ _ E _ _ _ I _ _ _ _ _ O _ _ _ _ _ U _ _ _ _ _ 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Set1 is: 
+A B C D E F G _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Set2 is: 
+A B C D E F G H I J K L _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Is set1 a subset of set2? 
+Yes! 
+
